@@ -16,7 +16,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "8761847605:AAEQNNCaGEyXiTlGWrA_rgtv6UqSfMQ2ljo"
+TOKEN = os.getenv("TOKEN")
 
 WINGO_BUTTON = "Wingo Prediction"
 MENU_BUTTON = "Menu"
