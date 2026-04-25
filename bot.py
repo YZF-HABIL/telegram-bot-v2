@@ -693,3 +693,17 @@ app.add_handler(
 app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_text))
 
 app.run_polling(drop_pending_updates=True)
+
+from flask import Flask
+import threading
+
+app = Flask('')
+
+@app.route('/')
+def home():
+    return "Bot is alive!"
+
+def run():
+    app.run(host='0.0.0.0', port=10000)
+
+threading.Thread(target=run).start()
