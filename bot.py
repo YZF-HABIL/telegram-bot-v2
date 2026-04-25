@@ -20,7 +20,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
+TOKEN = os.environ["BOT_TOKEN"]
 ADMIN_ID = int(os.environ["ADMIN_TELEGRAM_ID"]) if os.environ.get("ADMIN_TELEGRAM_ID") else None
 
 WINGO_BUTTON = "Wingo Prediction"
