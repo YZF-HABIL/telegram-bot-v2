@@ -39,20 +39,30 @@ DISCLAIMER = (
 )
 
 WIN_GIFS = [
-    "https://media.giphy.com/media/3o7TKr3nzbh5WgCFxe/giphy.gif",
-    "https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif",
-    "https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif",
-    "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",
-    "https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif",
-    "https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif",
+    "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTBuZ3NjbGlmN2w1dmZmejl5MWtwODU1eDV6ODMzdGJqeTNkaDJwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q66ZEIpjEQddUOOKGW/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUxYnBhOG8wamQwb3c3Y292cTR6OXl1enVtYTlodGd2ZWlseHFhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D63HGAzG15LQrjBPRE/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUxYnBhOG8wamQwb3c3Y292cTR6OXl1enVtYTlodGd2ZWlseHFhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GCO5WNzFmlc0vjK8cA/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUxYnBhOG8wamQwb3c3Y292cTR6OXl1enVtYTlodGd2ZWlseHFhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lxxOGaDRk4f7R5TkBd/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVhazFibHU2bXc1djlxcDRvN3h0MmN5dHh6eGs3MzBzcGZuamd6OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/blSTtZehjAZ8I/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVhazFibHU2bXc1djlxcDRvN3h0MmN5dHh6eGs3MzBzcGZuamd6OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EJMyMO22UxP68/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVhazFibHU2bXc1djlxcDRvN3h0MmN5dHh6eGs3MzBzcGZuamd6OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zQLjk9d31jlMQ/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnM5amxuaWNjbDFiZHNqbGd6OTM1eWhhNmwyeDJkNnltdm9mcmpnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k1Psl92gw7YPSPYFKm/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnM5amxuaWNjbDFiZHNqbGd6OTM1eWhhNmwyeDJkNnltdm9mcmpnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dg4TxjYikCpiGd7tYs/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRtM2xuMHd3ZTdodjU2YngzcmN5dndsbG43Z25odDZ5aWt0dW5ieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6brH8dM3zeMyA/giphy.gif",
+
 ]
 
 LOSE_GIFS = [
-    "https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif",
-    "https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif",
-    "https://media.giphy.com/media/ROF8OQvDmxytW/giphy.gif",
-    "https://media.giphy.com/media/OPU6wzx8JrHna/giphy.gif",
-    "https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmdnJuNjVudHFwZzYyOXk5cm00b2VrOGVnOWxwNm9xOHJpZW1iZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lGBecpB2dIMwt6ohfI/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmdnJuNjVudHFwZzYyOXk5cm00b2VrOGVnOWxwNm9xOHJpZW1iZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lz6971fkGSgCMOOncl/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmdnJuNjVudHFwZzYyOXk5cm00b2VrOGVnOWxwNm9xOHJpZW1iZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H6cmWzp6LGFvqjidB7/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmdnJuNjVudHFwZzYyOXk5cm00b2VrOGVnOWxwNm9xOHJpZW1iZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fhLgA6nJec3Cw/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmdnJuNjVudHFwZzYyOXk5cm00b2VrOGVnOWxwNm9xOHJpZW1iZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VNTMx3LkpG2anXpwbr/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmdnJuNjVudHFwZzYyOXk5cm00b2VrOGVnOWxwNm9xOHJpZW1iZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/98MaHVwJOmWMz4cz1K/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmdnJuNjVudHFwZzYyOXk5cm00b2VrOGVnOWxwNm9xOHJpZW1iZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dTTt9Oeomo02KlfZAA/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmdnJuNjVudHFwZzYyOXk5cm00b2VrOGVnOWxwNm9xOHJpZW1iZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aWMJvA76tNnBR9gkpT/giphy.gif",
+    "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHMweDd0NWVnNmltNTdvYnhyNXNsY3N2d2w5N21sbXUzeXp1Z3NseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W0c3xcZ3F1d0EYYb0f/giphy.gif",
+    "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVxYmZvMWsxcTM5ejI1NmNxZjg3ZzI4MWZybzhiZHptYnBtYXpxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OPU6wzx8JrHna/giphy.gif",
 ]
 
 NUMBER_COLORS = {
