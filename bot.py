@@ -692,8 +692,6 @@ app.add_handler(
 )
 app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_text))
 
-app.run_polling(drop_pending_updates=True)
-
 from flask import Flask
 import threading
 
