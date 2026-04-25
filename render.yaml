@@ -1,0 +1,11 @@
+services:
+  - type: worker
+    name: telegram-bot
+    runtime: python
+    buildCommand: ""
+    startCommand: python bot.py
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: ADMIN_TELEGRAM_ID
+        sync: false
